@@ -1,8 +1,0 @@
-button {
-     background-color: rgb(0, 238, 255)(201, 176, 176);
-    color: black;
-    border: none;
-}
-button :hover {
-    background-color: green;
-}
